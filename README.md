@@ -14,6 +14,7 @@ GitHub is a web-based platform that uses Git. It provides a central location for
 GitHub also has issue tracking, which helps teams manage bugs and features. You can assign tasks, track progress, and discuss changes. And with wikis, you can document your project, which is super helpful for onboarding new members or just keeping track of how things work.
 Open source projects love GitHub because it's free for public repositories. That's why so many projects are hosted there. It's also a great place to showcase your work if you're a developer looking for a job. Employers can see your contributions and code quality.
 Github offers a central platform for teams to manage code, using features like pull requests for code review before merging
+
 HOW DOES VERSION CONTROL HELP MAINTAIN PROJECT INTEGRITY? 
 •	Accountability: Tracks changes, allowing identification of who made changes and when, ensuring responsibility.By tracking every change, you can see who did what and when. That accountability is important in team projects. It also allows you to revert changes if something breaks, which is crucial for stability. Also, with branches, you can test features in isolation before merging them into the main codebase, reducing the risk of introducing bugs.
 •	Stability: Enables reversion to previous versions if issues arise, crucial for project reliability.
